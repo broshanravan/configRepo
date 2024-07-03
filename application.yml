@@ -8,6 +8,7 @@ classroom:
   teacher: Miss Davidson from GIT
   students:
     count: 4
+
     names: Atoosa, Bruce, Area, Laleh
     marks:
       - Atoosa: 20
@@ -16,12 +17,9 @@ classroom:
       - Bruce: 10
 
 server:
-  port: 88880management:
+  port: 8888:
   endpoints:
     web:
       exposure:
         include: "*"
 
-spring:
-  profiles:
-    active: test
