@@ -17,7 +17,7 @@ classroom:
       - Bruce: 10
 
 server:
-  port: 8889
+  port: 8881
   endpoints:
     web:
       exposure:
