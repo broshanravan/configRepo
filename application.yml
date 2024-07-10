@@ -3,7 +3,7 @@ spring:
   name: SpringCloudConfigurationServer
 
 
-principal: Mr Bean from GIT
+principal: Mr Bean from GIT default
 classroom:
   teacher: Miss Davidson from GIT
   students:
