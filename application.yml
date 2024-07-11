@@ -11,10 +11,10 @@ classroom:
 
     names: Atoosa, Bruce, Area, Laleh
     marks:
-      - Atoosa: 11
-      - laleh: 22
-      - Areya: 33
-      - Bruce: 44
+      - Atoosa: 15
+      - laleh: 25
+      - Areya: 35
+      - Bruce: 45
 
 server:
   port: 8881
